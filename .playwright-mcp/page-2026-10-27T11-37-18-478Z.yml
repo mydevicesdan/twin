@@ -1,0 +1,21 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - heading "AI in Production" [level=1] [ref=e5]
+      - paragraph [ref=e6]: Deploy your Digital Twin to the cloud
+      - generic [ref=e8]:
+        - generic [ref=e9]:
+          - heading "AI Digital Twin" [level=2] [ref=e10]
+          - paragraph [ref=e14]: Your AI course companion
+        - generic [ref=e15]:
+          - generic [ref=e33]:
+            - paragraph [ref=e34]: Hi, who are you?
+            - paragraph [ref=e35]: 6:37:08 AM
+          - generic [ref=e47]:
+            - paragraph [ref=e48]: Sorry, I encountered an error. Please try again.
+            - paragraph [ref=e49]: 6:37:09 AM
+        - generic [ref=e23]:
+          - textbox "Type your message..." [ref=e24]
+          - button [disabled] [ref=e25]
+      - paragraph [ref=e30]: "Week 2: Building Your Digital Twin"
+  - alert [ref=e31]
