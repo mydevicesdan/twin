@@ -26,7 +26,7 @@ terraform init -input=false `
   -backend-config="dynamodb_table=twin-terraform-locks" `
   -backend-config="encrypt=true"
 
-# Enod of new lines
+# End of new lines
 
 if (-not (terraform workspace list | Select-String $Environment)) {
     terraform workspace new $Environment
